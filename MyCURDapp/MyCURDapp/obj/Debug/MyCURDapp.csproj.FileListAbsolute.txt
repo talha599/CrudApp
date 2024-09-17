@@ -1,0 +1,10 @@
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.Form1.resources
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.Properties.Resources.resources
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\bin\Debug\MyCURDapp.exe.config
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\bin\Debug\MyCURDapp.exe
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\bin\Debug\MyCURDapp.pdb
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.exe
+C:\Users\talha\OneDrive\Desktop\CURD app\MyCURDapp\MyCURDapp\obj\Debug\MyCURDapp.pdb
